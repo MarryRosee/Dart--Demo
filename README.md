@@ -5,15 +5,23 @@ void main() {
   
     print("i am single line statement") ;
   }
+  
 ..........................................
-  void main() {
+  
+  void main()
+  {
   /*
      i am multiple line statement
+     
       i am multiple line statement
+      
        i am multiple line statement
+       
         i am multiple line statement
+        
       */
   
     print("i am multiple line statement") ;
+    
     
       }
