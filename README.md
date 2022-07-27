@@ -16,13 +16,9 @@ void main() {
   
   /*
      i am multiple line statement
-     
       i am multiple line statement
-      
        i am multiple line statement
-       
         i am multiple line statement
-        
       */
   
     print("i am multiple line statement") ;
